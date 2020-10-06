@@ -37,6 +37,7 @@
                     <source>15</source>
                     <target>15</target>
                     <encoding>UTF-8</encoding>
+                    <compilerArgs>--enable-preview</compilerArgs>
                 </configuration>
             </plugin>
         </plugins>
